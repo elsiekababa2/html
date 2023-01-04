@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+  
+        <title> my first page </title>
+    
+    
+</head>
+
+<h1 style="color:blue;"> this is a smaller heading </h1>
+<h2>this is a lesser heading</h2>
+</BR>
+
+<p style="color:blue;font-size:200%;"> <em>this is my test paragraph</em> <br>html is a language used to create websites<br><strong>html 5 for websites is a trending job opportunity for millenials</strong>if you wish to learn how to be a website creator, please feel free to register for a course at<a href="http://www.coursera.com">coursera</a> <br> it's an online learning platform for<strong>begginers</strong> bigginers or individuals with knowledge of css or javascript who would like to build websites </p>
+</BR>
+<a href="http://www.google.com">go to google</a>
+</BR>
+<img src="https://goo.gl/9wckxs"/>
+</BR>
+<a href="https://www.google.com">go to google 2!<img src="https://goo.gl/9wckxs"/> </a>
+
+</BR>
+
+</body>
+</BR>
+
+
+<table border="1" style="border:solid;color:pink;">
+  <tr>
+  <td>day 1</td><td>morning</td><td>cook eggs</td>
+  </tr>
+  <tr>
+    <td>day 2</td><td>morning</td><td>cook bread</td>
+  </tr>
+  <tr>
+    <td>day 3</td><td>morning</td><td>cook cake</td>
+  </tr>
+  <tr>
+    <td>day 4</td><td>morning</td><td>cook pancakes</td>
+ </tr>
+  <tr>
+    <td>day 5</td><td>morning</td><td>cook chapati</td>
+  </tr>
+  <tr>
+    <td>day 6</td><td>morning</td><td>cook mandazi</td>
+  </tr>
+  <tr>
+    <td>day 7</td><td>morning</td><td>cook toast</td>
+  </tr>
+  <tr>
+    <td>day 8</td><td>morning</td><td>cook hotdogs</td>
+  </tr>
+  <tr>
+    <td>day 9</td><td>morning</td><td>cook minced meat</td>
+  </tr>
+  <tr>
+    <td>day 10</td><td>morning</td><td>cook fish</td>
+  </tr>
+  <tr>
+    <td>day 11</td><td>morning</td><td>cook spinach</td>
+  </tr>
+  <tr>
+    <td>day 12</td><td>morning</td><td>cook pie</td>
+  </tr>
+  <tr>
+    <td>day 13</td><td>morning</td><td>cook chicken</td>
+  </tr>
+  <tr>
+    <td>day 14</td><td>morning</td><td>cook beef</td>
+  </tr>
+  <tr>
+    <td>day 15</td><td>morning<td>cook meatloaf</td></td>
+  </tr>
+  
+  
+  
+  
+  
+  
+  
+  
+</table>
